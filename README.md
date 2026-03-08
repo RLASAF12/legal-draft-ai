@@ -48,7 +48,7 @@ npm run dev
 Contributions are welcome! Please follow the legal document standards when submitting templates.
 
 ## Author
-<img src="https://gitshow.dev/api/card/ofershap" alt="Made by ofershap">
+<img src="https://gitshow.dev/api/card/RLASAF12" alt="Made by RLASAF12">
 
 ## License
 MIT
