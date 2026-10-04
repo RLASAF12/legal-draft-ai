@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to the private repo RLASAF12/legal-archive (folder `legal-draft-ai/`, full history preserved). Archived 2026-10-04.
+
 # LegalDraft AI
 
 ### AI-Powered Legal Document Generator for Businesses & Startups
